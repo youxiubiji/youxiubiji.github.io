@@ -14,30 +14,56 @@ module.exports = {
     themeConfig: {
         // 添加导航栏：页面首页的右上角
         nav: [
-            { text: '首页', link: '/' },
-            { text: '前端', link: '/web-frame/' },
-            { text: 'Node', link: '/node/nest/nest' },
-            { text: '面试问题', link: '/interview/' },
-            { text: 'Git', link: '/git/' },
-            { text: 'Linux', link: '/linux/' },
-            { text: 'Mysql', link: '/mysql/' },
-            { text: 'Docker', link: '/docker/' },
+            { text: '指南', link: '/guide/' },
             {
-                text: '小乔的前端博客',
+                text: '前端',
                 items: [
-                    { text: 'Github', link: 'https://github.com/qiaochunmei' },
-                    { text: '掘金', link: 'https://juejin.cn/user/43636195606333/posts' },
+                    { text: 'Html', link: '/web-frame/html/' },
+                    { text: 'Css', link: '/web-frame/Css/' },
+                    { text: 'JavaScript', link: '/web-frame/JavaScript/' },
                 ],
             },
-        ],
-        sidebar: [
             {
-                title: '基础知识',
-                path: '/',
-                collapsable: false, // 不折叠
-                children: [{ title: '必会', path: '/' }],
+                text: 'Node',
+                items: [
+                    { text: 'Api', link: '/node/Api/' },
+                    { text: 'Koa', link: '/node/Koa/' },
+                ],
             },
+            { text: '面试问题', link: '/interview/' },
+            {
+                text: '杂谈',
+                items: [
+                    { text: 'Vuepress', link: '/gossip/vuepress/' },
+                    { text: 'MongoDB', link: '/gossip/mongodb/' },
+                ],
+            },
+            { text: '总结', link: '/conclusion/' },
+            { text: '励志名言', link: '/quotes/' },
         ],
+        sidebar: {
+            '/guide/': [
+                {
+                    title: '基础',
+                    collapsable: false,
+                    children: ['/guide/'],
+                },
+            ],
+            '/conclusion/': [
+                {
+                    title: '2022',
+                    collapsable: false,
+                    children: ['/conclusion/', '/conclusion/January/', '/conclusion/February/'],
+                },
+            ],
+            '/quotes/': [
+                {
+                    title: '2022',
+                    collapsable: false,
+                    children: ['/quotes/', '/quotes/January/', '/quotes/February/'],
+                },
+            ],
+        },
     },
     configureWebpack: {
         resolve: {
