@@ -1,0 +1,26 @@
+{
+  "name": "youxiubiji.github.io",
+  "version": "1.0.0",
+  "description": "测试",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youxiubiji/youxiubiji.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youxiubiji/youxiubiji.github.io/issues"
+  },
+  "homepage": "https://github.com/youxiubiji/youxiubiji.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.5"
+  }
+}
