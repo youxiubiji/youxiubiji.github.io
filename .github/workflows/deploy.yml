@@ -1,17 +1,25 @@
-name: Build and Deploy
-on: [push]
+name: github pages
+
+on:
+  push:
+    branches:
+    - master
+
 jobs:
-  build-and-deploy:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
+    - uses: actions/checkout@v1
+    - run: npm ci # 相当于npm install
+    - run: npm run docs:build
 
-    - name: deploy
-      uses: youxiubiji/youxiubiji.github.io@master
+    #发布到youxiubiji.github.io/master
+    - name: Deploy youxiubiji.github.io/master
+      uses: peaceiris/actions-gh-pages@v2
       env:
-        ACCESS_TOKEN: ${{ secrets.GONGSI }}
-        TARGET_REPO: username/repo
-        TARGET_BRANCH: master
-        BUILD_SCRIPT: yarn && yarn docs:build
-        BUILD_DIR: docs/.vuepress/dist
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        EXTERNAL_REPOSITORY: youxiubiji/youxiubiji.github.io #可以新建一个mybells.github.io仓库发布到master
+        PUBLISH_BRANCH: master
+        PUBLISH_DIR: docs/.vuepress/dist
+      with:
+          emptyCommits: false
