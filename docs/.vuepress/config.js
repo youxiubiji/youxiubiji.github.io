@@ -38,7 +38,7 @@ module.exports = {
             { text: '面试问题', link: '/interview/' },
             {
                 text: '杂谈',
-                link: '/gossip/' 
+                link: '/gossip/',
                 // items: [
                 //     { text: 'Vuepress', link: '/gossip/vuepress/' },
                 //     { text: 'MongoDB', link: '/gossip/mongodb/' },
@@ -70,7 +70,7 @@ module.exports = {
                 {
                     title: 'VuePress',
                     collapsable: false,
-                    children: ['/gossip/vuepress/'],
+                    children: ['/gossip/vuepress/', '/gossip/vuepress/deployment'],
                 },
             ],
             '/conclusion/': [
