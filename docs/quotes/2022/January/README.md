@@ -32,3 +32,10 @@
 <p align="right"> <font size=2 color="#000">宋默/人生没有什么不可放下：弘一法师的人生智慧</font> </p>
 :::
 
+## 2022-01-14
+
+::: tip 名言
+虽经历时代煎熬，却无悔
+
+<p align="right"> <font size=2 color="#000">中村恒子 奥田弘美/人间值得</font> </p>
+:::
