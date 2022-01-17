@@ -39,3 +39,13 @@
 
 <p align="right"> <font size=2 color="#000">中村恒子 奥田弘美/人间值得</font> </p>
 :::
+
+
+## 2022-01-17
+
+::: tip 名言
+你大可不必把你的声誉建立在你请人吃饭上。
+
+<p align="right"> <font size=2 color="#000">梭罗/瓦尔登湖</font> </p>
+:::
+
