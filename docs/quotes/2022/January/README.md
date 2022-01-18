@@ -49,3 +49,10 @@
 <p align="right"> <font size=2 color="#000">梭罗/瓦尔登湖</font> </p>
 :::
 
+## 2022-01-18
+
+::: tip 名言
+幸福与状态无关，幸福是一种能力！
+
+<p align="right"> <font size=2 color="#000">樊登/读书是一辈子的事</font> </p>
+:::
