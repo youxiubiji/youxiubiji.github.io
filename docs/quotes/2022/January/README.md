@@ -56,3 +56,11 @@
 
 <p align="right"> <font size=2 color="#000">樊登/读书是一辈子的事</font> </p>
 :::
+
+## 2022-01-20
+
+::: tip 名言
+“生气是拿别人的错误惩罚自己”。
+
+<p align="right"> <font size=2 color="#000">方士华/修心三不：不生气 不计较 不抱怨</font> </p>
+:::
