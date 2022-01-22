@@ -63,6 +63,11 @@ module.exports = {
                     children: ['/gossip/AntV/'],
                 },
                 {
+                    title: 'Echarts',
+                    collapsable: false,
+                    children: ['/gossip/Echarts/'],
+                },
+                {
                     title: 'MongoDB',
                     collapsable: false,
                     children: ['/gossip/mongodb/'],
