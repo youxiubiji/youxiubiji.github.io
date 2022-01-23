@@ -72,3 +72,11 @@
 
 <p align="right"> <font size=2 color="#000">洛莉.戈特利布/也许你该找个人聊聊</font> </p>
 :::
+
+## 2022-01-23
+
+::: tip 名言
+你想要享别人不能享的福，就要吃别人不能吃的苦。
+
+<p align="right"> <font size=2 color="#000">李思园/生活需要仪式感</font> </p>
+:::
