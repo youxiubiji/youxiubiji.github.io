@@ -80,3 +80,11 @@
 
 <p align="right"> <font size=2 color="#000">李思园/生活需要仪式感</font> </p>
 :::
+
+## 2022-01-24
+
+::: tip 名言
+人生循环性。事情会变好，然后又变糟。
+
+<p align="right"> <font size=2 color="#000">戴维.艾伦/搞定：无压工作的艺术</font> </p>
+:::
