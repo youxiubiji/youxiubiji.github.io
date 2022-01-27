@@ -104,3 +104,12 @@
 
 <p align="right"> <font size=2 color="#000">哈奈尔/世界上最神奇的24堂课</font> </p>
 :::
+
+
+## 2022-01-27
+
+::: tip 名言
+只做头部，联机大脑，终身提问，理解系统。
+
+<p align="right"> <font size=2 color="#000">古典/跃迁：成为高手的技术</font> </p>
+:::
