@@ -113,3 +113,11 @@
 
 <p align="right"> <font size=2 color="#000">古典/跃迁：成为高手的技术</font> </p>
 :::
+
+## 2022-01-28
+
+::: tip 名言
+改变的起点是接纳自己，并且关注自己的内心世界。
+
+<p align="right"> <font size=2 color="#000">爱德华.L.德西 理查德</font> </p>
+:::
