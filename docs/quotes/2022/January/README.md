@@ -121,3 +121,11 @@
 
 <p align="right"> <font size=2 color="#000">爱德华.L.德西 理查德</font> </p>
 :::
+
+## 2022-01-30
+
+::: tip 名言
+投资的风险就两点，本金的永久损失、回报不足。
+
+<p align="right"> <font size=2 color="#000">张居营/慢慢变富</font> </p>
+:::
