@@ -7,3 +7,11 @@
 
 <p align="right"> <font size=2 color="#000">盛安之/口才三绝：会赞美，会幽默，会拒绝</font> </p>
 :::
+
+## 2022-02-07
+
+::: tip 名言
+莳花弄草卧云居，漱泉枕石闲终日
+
+<p align="right"> <font size=2 color="#000">蔡澜/不如任性过生活</font> </p>
+:::
