@@ -15,3 +15,11 @@
 
 <p align="right"> <font size=2 color="#000">蔡澜/不如任性过生活</font> </p>
 :::
+
+## 2022-02-09
+
+::: tip 名言
+总之，启即继位，“禅让”的旧例，便不再出现了。
+
+<p align="right"> <font size=2 color="#000">傅乐成/中国通史</font> </p>
+:::
