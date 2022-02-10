@@ -23,3 +23,11 @@
 
 <p align="right"> <font size=2 color="#000">傅乐成/中国通史</font> </p>
 :::
+
+## 2022-02-10
+
+::: tip 名言
+柔弱才逞强，自信才示弱。
+
+<p align="right"> <font size=2 color="#000">陈建伟/把话说到点子上</font> </p>
+:::
