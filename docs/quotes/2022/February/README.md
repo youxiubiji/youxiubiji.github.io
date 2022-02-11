@@ -31,3 +31,11 @@
 
 <p align="right"> <font size=2 color="#000">陈建伟/把话说到点子上</font> </p>
 :::
+
+## 2022-02-11
+
+::: tip 名言
+问题行为的第四个阶段就是“复仇”阶段。
+
+<p align="right"> <font size=2 color="#000">岸见一郎</font> </p>
+:::
