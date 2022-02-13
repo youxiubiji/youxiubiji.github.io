@@ -39,3 +39,11 @@
 
 <p align="right"> <font size=2 color="#000">岸见一郎</font> </p>
 :::
+
+## 2022-02-13
+
+::: tip 名言
+女人最大的奢移品，不是包和房子，而是自主。
+
+<p align="right"> <font size=2 color="#000">李筱懿/情商是什么？</font> </p>
+:::
