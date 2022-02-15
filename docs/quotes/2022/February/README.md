@@ -47,3 +47,11 @@
 
 <p align="right"> <font size=2 color="#000">李筱懿/情商是什么？</font> </p>
 :::
+
+## 2022-02-14
+
+::: tip 名言
+大智者必谦和，大善者必宽容。
+
+<p align="right"> <font size=2 color="#000">黄渤/做一个有趣又情商的人</font> </p>
+:::
