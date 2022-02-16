@@ -55,3 +55,11 @@
 
 <p align="right"> <font size=2 color="#000">黄渤/做一个有趣又情商的人</font> </p>
 :::
+
+## 2022-02-16
+
+::: tip 名言
+感觉会比思考更让你接近你是谁的事实。
+
+<p align="right"> <font size=2 color="#000">挨克哈特.托利/当下力量</font> </p>
+:::
