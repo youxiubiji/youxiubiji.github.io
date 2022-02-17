@@ -63,3 +63,11 @@
 
 <p align="right"> <font size=2 color="#000">挨克哈特.托利/当下力量</font> </p>
 :::
+
+## 2022-02-17
+
+::: tip 名言
+给他人戴高帽，让他信任自己。
+
+<p align="right"> <font size=2 color="#000">卡耐基/羊皮卷</font> </p>
+:::
