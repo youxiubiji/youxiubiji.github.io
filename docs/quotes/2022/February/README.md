@@ -71,3 +71,11 @@
 
 <p align="right"> <font size=2 color="#000">卡耐基/羊皮卷</font> </p>
 :::
+
+## 2022-02-19
+
+::: tip 名言
+计较是把双刃剑，伤人又伤己。
+
+<p align="right"> <font size=2 color="#000">端木自在编著/修心三不：不生气不计较不抱怨</font> </p>
+:::
