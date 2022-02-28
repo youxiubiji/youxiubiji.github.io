@@ -79,3 +79,11 @@
 
 <p align="right"> <font size=2 color="#000">端木自在编著/修心三不：不生气不计较不抱怨</font> </p>
 :::
+
+## 2022-02-28
+
+::: tip 名言
+他们都认为人类是失败和堕落的物种。
+
+<p align="right"> <font size=2 color="#000">乔丹.彼得森/人生十二法则</font> </p>
+:::
